@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/d/dev/exercism/cpp/leap
+# Install script for directory: /mnt/d/dev/cp/exercism/cpp/leap
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/mnt/d/dev/exercism/cpp/leap/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/mnt/d/dev/cp/exercism/cpp/leap/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

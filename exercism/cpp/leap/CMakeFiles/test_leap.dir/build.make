@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/d/dev/exercism/cpp/leap
+CMAKE_SOURCE_DIR = /mnt/d/dev/cp/exercism/cpp/leap
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/d/dev/exercism/cpp/leap
+CMAKE_BINARY_DIR = /mnt/d/dev/cp/exercism/cpp/leap
 
 # Utility rule file for test_leap.
 
@@ -71,6 +71,6 @@ CMakeFiles/test_leap.dir/clean:
 .PHONY : CMakeFiles/test_leap.dir/clean
 
 CMakeFiles/test_leap.dir/depend:
-	cd /mnt/d/dev/exercism/cpp/leap && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/d/dev/exercism/cpp/leap /mnt/d/dev/exercism/cpp/leap /mnt/d/dev/exercism/cpp/leap /mnt/d/dev/exercism/cpp/leap /mnt/d/dev/exercism/cpp/leap/CMakeFiles/test_leap.dir/DependInfo.cmake --color=$(COLOR)
+	cd /mnt/d/dev/cp/exercism/cpp/leap && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/d/dev/cp/exercism/cpp/leap /mnt/d/dev/cp/exercism/cpp/leap /mnt/d/dev/cp/exercism/cpp/leap /mnt/d/dev/cp/exercism/cpp/leap /mnt/d/dev/cp/exercism/cpp/leap/CMakeFiles/test_leap.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/test_leap.dir/depend
 

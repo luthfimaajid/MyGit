@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/d/dev/exercism/cpp/leap/leap.cpp" "/mnt/d/dev/exercism/cpp/leap/CMakeFiles/leap.dir/leap.cpp.o"
-  "/mnt/d/dev/exercism/cpp/leap/leap_test.cpp" "/mnt/d/dev/exercism/cpp/leap/CMakeFiles/leap.dir/leap_test.cpp.o"
-  "/mnt/d/dev/exercism/cpp/leap/test/tests-main.cpp" "/mnt/d/dev/exercism/cpp/leap/CMakeFiles/leap.dir/test/tests-main.cpp.o"
+  "/mnt/d/dev/cp/exercism/cpp/leap/leap.cpp" "/mnt/d/dev/cp/exercism/cpp/leap/CMakeFiles/leap.dir/leap.cpp.o"
+  "/mnt/d/dev/cp/exercism/cpp/leap/leap_test.cpp" "/mnt/d/dev/cp/exercism/cpp/leap/CMakeFiles/leap.dir/leap_test.cpp.o"
+  "/mnt/d/dev/cp/exercism/cpp/leap/test/tests-main.cpp" "/mnt/d/dev/cp/exercism/cpp/leap/CMakeFiles/leap.dir/test/tests-main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

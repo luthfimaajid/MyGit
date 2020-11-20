@@ -1,0 +1,4 @@
+/mnt/d/dev/cp/exercism/cpp/reverse-string/CMakeFiles/rebuild_cache.dir
+/mnt/d/dev/cp/exercism/cpp/reverse-string/CMakeFiles/edit_cache.dir
+/mnt/d/dev/cp/exercism/cpp/reverse-string/CMakeFiles/test_reverse-string.dir
+/mnt/d/dev/cp/exercism/cpp/reverse-string/CMakeFiles/reverse-string.dir
