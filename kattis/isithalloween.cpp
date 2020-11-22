@@ -11,7 +11,7 @@ int main(){
     getline(cin, str);
     x=stoi(str.substr(4,2));
     if((str.substr(0,3)=="OCT")&&(x==31)){
-        cout<<"yes"<<endl;
+        cout<<"yup"<<endl;
         
     }else if((x==25)&&(str.substr(0,3)=="DEC")){
         cout<<"yup  "<<endl;
