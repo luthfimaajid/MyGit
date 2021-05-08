@@ -1,0 +1,25 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ull unsigned long long
+#define ll long long
+#define koma(x) fixed<<showpoint<<setprecision(x)
+
+void solve(){
+    int n, x,y;
+    cin>>n;
+    for(int i=0; i<n; i++){
+        cin>>x>>y;
+        cout<<x+y<<endl;
+    }
+
+
+}
+
+int main(){
+    ios_base::sync_with_stdio(0);
+   
+    solve();
+    
+    return 0;
+}   
