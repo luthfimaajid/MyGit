@@ -2,4 +2,6 @@
 *.exe
 learninvim/
 .vscode/
+exercism/
 dsa/
+notes
