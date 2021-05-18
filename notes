@@ -1,9 +1,0 @@
-============================== FIND A WORD IN A SENTENCE ==============================
-        
-        if(sent.find("problem") != string::npos){
-            cout<<"yes"<<endl;
-        }else{
-            cout<<"no"<<endl;
-        }
-
-============================== xxxxxxxxxxxxxxxxxxxxxxxxxx ==============================
